@@ -23,7 +23,7 @@
       <groupId>org.postgresql</groupId>
       <artifactId>postgresql</artifactId>
       <scope>system</scope>
-      <version>42.2.5</version>
+      <version>42.4.1</version>
       <systemPath>${project.basedir}/lib/postgresql-42.2.5.jar</systemPath>
     </dependency>
     <dependency>
